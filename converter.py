@@ -6,6 +6,7 @@ def convert(ops, value):
     else:
         return "ERROR"
     
+print("Hello!\n")
 ops = input("KM or M? ")
 value = int(input("value: "))
 
