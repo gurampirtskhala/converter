@@ -12,7 +12,4 @@ value = int(input("value: "))
 
 print(convert(ops, value))
 
-
-
-
 print("\nGood bye!")
