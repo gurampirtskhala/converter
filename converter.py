@@ -7,9 +7,10 @@ def convert(ops, value):
         return "ERROR"
     
 print("Hello!\n")
+
 ops = input("KM or M? ")
 value = int(input("value: "))
 
-print(convert(ops, value))
 
+print(convert(ops, value))
 print("\nGood bye!")
